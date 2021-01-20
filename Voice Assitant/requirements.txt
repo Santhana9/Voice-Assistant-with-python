@@ -1,0 +1,8 @@
+pyttsx3
+SpeechRecognition
+pipwin
+wikipedia
+pyautogui
+Pillow
+psutil
+pyjokes
